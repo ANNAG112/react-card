@@ -1,0 +1,55 @@
+[
+    
+        {
+            "id":1,
+            "front" :"apple",
+            "back": "яблоко"
+        },
+        {
+            "id":2,
+            "front" :"orange",
+            "back": "яблоко"
+        },
+        {
+            "id":3,
+            "front" :"gren",
+            "back": "яблоко"
+        },
+        {
+            "id":4,
+            "front" :"red",
+            "back": "яблоко"
+        },
+        {
+            "id":5,
+            "front" :"apple",
+            "back": "яблоко"
+        },
+        {
+            "id":6,
+            "front" :"apple",
+            "back": "яблоко"
+        },
+        {
+            "id":7,
+            "front" :"apple",
+            "back": "яблоко"
+        },
+        {
+            "id":8,
+            "front" :"apple",
+            "back": "яблоко"
+        },
+        {
+            "id":9,
+            "front" :"apple",
+            "back": "яблоко"
+        },
+         {
+            "id":10,
+            "front" :"apple",
+            "back": "яблоко"
+        }
+
+    
+]
