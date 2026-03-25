@@ -52,7 +52,7 @@
 }
 
 .card-check {
-  transform: rotateY(100deg)
+  transform: rotateY(180deg)
 }
 
 .card::after {

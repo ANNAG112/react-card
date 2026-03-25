@@ -3,53 +3,124 @@
         {
             "id":1,
             "front" :"apple",
-            "back": "яблоко"
+            "back": "яблоко",
+            "setName": "English"
         },
         {
             "id":2,
             "front" :"orange",
-            "back": "яблоко"
+            "back": "aпельсин",
+            "setName" :"English"
         },
         {
             "id":3,
             "front" :"gren",
-            "back": "яблоко"
+            "back": "зеленый",
+            "setName":"English"
         },
         {
             "id":4,
             "front" :"red",
-            "back": "яблоко"
+            "back": "красный",
+            "setName":"English"
         },
         {
             "id":5,
             "front" :"apple",
-            "back": "яблоко"
+            "back": "яблоко",
+            "setName":"English"
         },
         {
             "id":6,
             "front" :"apple",
-            "back": "яблоко"
+            "back": "яблоко",
+            "setName":"English"
         },
         {
             "id":7,
             "front" :"apple",
-            "back": "яблоко"
+            "back": "яблоко",
+            "setName":"English"
         },
         {
             "id":8,
             "front" :"apple",
-            "back": "яблоко"
+            "back": "яблоко",
+            "setName":"English"
         },
         {
             "id":9,
             "front" :"apple",
-            "back": "яблоко"
+            "back":"яблоко",
+            "setName":"English"
         },
          {
             "id":10,
             "front" :"apple",
-            "back": "яблоко"
+            "back": "яблоко",
+            "setName":"English"
+        },
+        {
+            "id":11,
+            "front" :"margin",
+            "back": "оттступ внешний",
+            "setName":"css-свойства"
+        },
+         {
+            "id":12,
+            "front" :"margin",
+            "back": "оттступ внешний",
+            "setName":"css-свойства"
+        },
+         {
+            "id":13,
+            "front" :"margin",
+            "back": "оттступ внешний",
+            "setName":"css-свойства"
+        },
+         {
+            "id":14,
+            "front" :"margin",
+            "back": "оттступ внешний",
+            "setName":"css-свойства"
+        },
+         {
+            "id":15,
+            "front" :"margin",
+            "back": "оттступ внешний",
+            "setName":"css-свойства"
+        },
+         {
+            "id":16,
+            "front" :"margin",
+            "back": "оттступ внешний",
+            "setName":"css-свойства"
+        },
+         {
+            "id":17,
+            "front" :"margin",
+            "back": "оттступ внешний",
+            "setName":"css-свойства"
+        },
+         {
+            "id":18,
+            "front" :"margin",
+            "back": "оттступ внешний",
+            "setName":"css-свойства"
+        },
+         {
+            "id":19,
+            "front" :"margin",
+            "back": "оттступ внешний",
+            "setName":"css-свойства"
+        },
+         {
+            "id":20,
+            "front" :"margin",
+            "back": "оттступ внешний",
+            "setName":"css-свойства"
         }
+        
 
     
 ]
