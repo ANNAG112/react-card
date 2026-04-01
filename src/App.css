@@ -18,6 +18,34 @@
   filter: drop-shadow(0 0 2em #61dafbaa);
 }
 
+.header{
+
+background-color: rgb(189, 32, 58);
+padding: 20px;
+width: 100%;
+}
+
+h1{
+text-align: center;
+color: white;
+font-size: 50px;
+}
+
+h2{
+text-align: center;
+color: pink;
+font-size: 25px;
+margin: 20px;
+}
+
+p{
+text-align: center;
+color: pink;
+font-size: 16px;
+margin: 20px;
+}
+
+
 @keyframes logo-spin {
   from {
     transform: rotate(0deg);
